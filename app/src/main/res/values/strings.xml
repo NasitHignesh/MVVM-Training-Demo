@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">mvvm</string>
+    <string-array name="spinner_list">
+        <item>electronics</item>
+        <item>jewelery</item>
+        <item>mens clothing</item>
+        <item>women clothing</item>
+    </string-array>
+
+</resources>
